@@ -1,0 +1,9 @@
+[1011/064029.539:ERROR:settings.cc(430)] Settings version is not 5
+[1011/065029.557:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Admin\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\306f99a4-f28e-49db-bc32-447e35cf323a: The system cannot find the path specified. (0x3)
+[1011/065029.558:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Admin\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\42696b6b-ca9e-4aa7-a6b4-074929550b75: The system cannot find the path specified. (0x3)
+[1011/065029.559:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Admin\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\5031f0f7-1e7c-4c02-b527-56028388965b: The system cannot find the path specified. (0x3)
+[1011/065029.561:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Admin\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\5e96dce8-c5d2-4588-9599-9d5fad5e53ae: The system cannot find the path specified. (0x3)
+[1011/065029.564:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Admin\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\7aeebe6c-05bf-4930-97c0-c186360861b6: The system cannot find the path specified. (0x3)
+[1011/065029.566:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Admin\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\8472b413-7195-49c0-baa1-6f2b372782d4: The system cannot find the path specified. (0x3)
+[1011/065029.569:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Admin\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\fd477664-d110-47fa-8032-b240f257d494: The system cannot find the path specified. (0x3)
+[1011/065029.570:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
